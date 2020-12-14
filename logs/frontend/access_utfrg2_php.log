@@ -1,0 +1,4 @@
+40.77.167.27 - - [11/Dec/2020:11:24:03 +0000] "GET /robots.txt HTTP/1.0" 404 208 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+40.88.21.235 - - [11/Dec/2020:17:46:48 +0000] "GET / HTTP/1.0" 200 12 "http://utfrg.webfactional.com/" "Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)"
+40.88.21.235 - - [11/Dec/2020:17:46:48 +0000] "GET /favicon.ico HTTP/1.0" 404 209 "http://utfrg.webfactional.com/favicon.ico" "Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)"
+2600:3000:1511:200::1f - - [12/Dec/2020:00:00:08 +0000] "GET /.well-known/acme-challenge/kgXsXgC-r6OeHOB1cbB8inoQX7WiUzWrFFPnmHXch_E HTTP/1.0" 404 268 "-" "Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)"
